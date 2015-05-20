@@ -1,0 +1,1 @@
+isprobavam dodavanj current directory sa git add .
