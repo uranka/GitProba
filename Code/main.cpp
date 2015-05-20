@@ -39,6 +39,8 @@ public:
 int main()
 {
     float x, y, maxx, maxy, dx, dy;
+    cout<<"Izmena zbog eksperimenta sa git-om i njegovim ignore fajlom"<<endl;
+
     cout<<"zadati granice "<<endl;
     cout<<"maxx="; cin>>maxx;
     cout<<"maxy"; cin>>maxy;
