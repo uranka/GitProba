@@ -2,4 +2,4 @@ probam git i github
 Jelena
 izmena posle prvog commit-a
 izmena posle drugog commit-a, jos jednom izmena prethodnu nisam commmit
-da li ovo primecuje diff
+radim na new feature

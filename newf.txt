@@ -1,0 +1,3 @@
+novi fajl
+za new feature
+posle prvog commit-a new featur-a dalje radim na new feature
